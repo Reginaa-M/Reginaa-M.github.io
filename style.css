@@ -118,6 +118,11 @@ footer {
   color: #fff;
   box-shadow: 0 1px 0 rgba(27, 31, 36, 0.1);
 }
-h4 {
+h3 {
   align: center;
+}
+.char
+{
+  text-decoration: underline;
+  color: #0969da;
 }
